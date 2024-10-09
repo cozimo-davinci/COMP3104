@@ -3,7 +3,7 @@ name: Deploy React App
 on:
   pull_request:
     branches:
-      - [ "main" ] # Adjust this to your main branch name if necessary
+      -  main  # Adjust this to your main branch name if necessary
 
 jobs:
   build:
